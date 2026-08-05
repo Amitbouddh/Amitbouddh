@@ -13,6 +13,8 @@
 <a href="#"><img src="https://img.shields.io/badge/-COMPETITIVE%20PROGRAMMER-2b2d42?style=for-the-badge"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-OPEN%20SOURCE%20ENTHUSIAST-4a4e69?style=for-the-badge"/></a>
 
+<img src="https://komarev.com/ghpvc/?username=Amitbouddh&style=for-the-badge&color=E63946" alt="Profile Views"/>
+
 <br/><br/>
 
 <a href="https://amitbouddh.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
