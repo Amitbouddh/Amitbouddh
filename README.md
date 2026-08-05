@@ -1,16 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:1a1a2e&height=220&section=header&text=Amit%20Bouddh&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20DSA%20%26%20Problem%20Solving&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:1a1a2e&height=200&section=header&text=Amit%20Bouddh&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20MERN%20Stack%20Developer%20%E2%80%A2%20Competitive%20Programmer%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=56&descSize=14&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(MERN);Data+Structures+%26+Algorithms+Enthusiast;C%2B%2B+%7C+Java+%7C+JavaScript+%7C+TypeScript;Building+Scalable%2C+Production-Ready+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%A7%A0;Open+Source+Enthusiast+%F0%9F%8C%90"/>
 
 <br/><br/>
 
-<a href="#"><img src="https://img.shields.io/badge/-FULL%20STACK%20DEVELOPER-1a1a2e?style=for-the-badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-MERN%20STACK-E63946?style=for-the-badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-DSA%20%26%20PROBLEM%20SOLVING-2b2d42?style=for-the-badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-SOFTWARE%20ENGINEER-1a1a2e?style=for-the-badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-MERN%20STACK%20DEVELOPER-E63946?style=for-the-badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-COMPETITIVE%20PROGRAMMER-2b2d42?style=for-the-badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-OPEN%20SOURCE%20ENTHUSIAST-4a4e69?style=for-the-badge"/></a>
 
 <br/><br/>
 
@@ -80,6 +81,17 @@ I care about the full lifecycle of a product: designing the data model, building
 
 ---
 
+
+
+## 🏅 Achievements
+
+<!-- ✏️ Fill in real numbers — these are the first things a 25 LPA+ recruiter scans for. -->
+
+- 🧩 Solved **500+ DSA problems** across LeetCode, Codeforces & GeeksforGeeks
+- ⭐ Codeforces rating: **1296** &nbsp;|&nbsp; LeetCode rating: **1500**
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
@@ -135,7 +147,7 @@ Explore my complete project history, contributions, and experiments.
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amitbouddh&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=Amitbouddh&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -147,10 +159,9 @@ Explore my complete project history, contributions, and experiments.
 ## 🏆 Coding Profiles
 
 <p align="left">
-<a href="https://leetcode.com/YOUR-LEETCODE-ID"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://codeforces.com/profile/amitbouddh"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/amitbouddh0526"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-<a href="https://auth.geeksforgeeks.org/user/amitbouddh"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Amitbouddh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://codeforces.com/profile/Amitbouddh"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/amitbouddh"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </p>
 
 ---
@@ -158,7 +169,7 @@ Explore my complete project history, contributions, and experiments.
 ## 📫 Let's Connect
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/amit-bouddh-517898374/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:amitbouddh35689@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://amitbouddh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/Amitbouddh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
