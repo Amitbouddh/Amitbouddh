@@ -1,6 +1,6 @@
 <div align="center">
 
-# Amit Bouddh
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1e293b&height=200&section=header&text=Amit%20Bouddh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20DSA%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Data+Structures+%26+Algorithms;Building+Scalable+Web+Applications;Aspiring+Software+Engineer" alt="Typing SVG" />
 
@@ -16,6 +16,8 @@
 
 ## About Me
 
+<img align="right" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
 I'm a Full Stack Developer specializing in the **MERN stack**, focused on building scalable, production-grade web applications. I have a strong foundation in **Data Structures & Algorithms** and I'm currently deepening my skills in **System Design, AWS, and DevOps** to build software that performs reliably at scale.
 
 - 🔭 Currently building full-stack platforms with clean architecture and real-world features
@@ -23,6 +25,8 @@ I'm a Full Stack Developer specializing in the **MERN stack**, focused on buildi
 - 🧠 Solving DSA problems consistently to sharpen problem-solving fundamentals
 - 🎯 Goal: Land a Software Engineering role where I can ship high-quality, impactful products
 - 💬 Ask me about React, Node.js, MongoDB, or system design basics
+
+<br clear="right"/>
 
 ---
 
@@ -111,6 +115,18 @@ A web platform for a university chess club featuring tournament management and a
 
 ---
 
+## Contribution Snake 🐍
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Amitbouddh/Amitbouddh/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+> This animated snake "eats" your contribution graph — it's auto-generated. Setup takes 2 minutes: see `snake.yml` (shared alongside this file) for the one-time GitHub Action you add to your repo.
+
+---
+
 ## Trophies
 
 <div align="center">
@@ -148,6 +164,8 @@ A web platform for a university chess club featuring tournament management and a
 *"Consistency beats talent when talent doesn't stay consistent."*
 
 ⭐️ Thanks for visiting my profile — feel free to explore my repositories and reach out!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0e75b6&height=120&section=footer" width="100%"/>
 
 </div>
 
