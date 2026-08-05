@@ -2,7 +2,7 @@
 
 # Amit Bouddh
 
-### Full Stack Developer (MERN) | DSA & Problem Solving | Aspiring SDE
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Data+Structures+%26+Algorithms;Building+Scalable+Web+Applications;Aspiring+Software+Engineer" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://amitbouddh.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
@@ -98,10 +98,24 @@ A web platform for a university chess club featuring tournament management and a
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Amitbouddh&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitbouddh&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Amitbouddh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=3600" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitbouddh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amitbouddh&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Amitbouddh&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amitbouddh&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+> ⚠️ **Note:** The stats cards above use the public `github-readme-stats` demo server, which occasionally goes down or gets rate-limited when too many people use it at once (this is what caused the broken icons). If they don't load for you, the permanent fix is to deploy your own free copy on Vercel — see the note at the end of this file for a one-click link.
+
+---
+
+## Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Amitbouddh&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -136,3 +150,15 @@ A web platform for a university chess club featuring tournament management and a
 ⭐️ Thanks for visiting my profile — feel free to explore my repositories and reach out!
 
 </div>
+
+<!--
+PERMANENT FIX FOR BROKEN STATS CARDS (if icons ever break again):
+The public github-readme-stats server (github-readme-stats.vercel.app) is shared by 
+millions of profiles and gets rate-limited often, which shows up as a broken image.
+To fix this permanently:
+  1. Go to https://github.com/anuraghazra/github-readme-stats
+  2. Click "Deploy to Vercel" (one-click, free, takes ~2 minutes)
+  3. Replace "github-readme-stats.vercel.app" in this file with your own deployed URL
+This makes your stats cards load from your own private instance instead of the 
+crowded public one, so they never break due to rate limits again.
+-->
