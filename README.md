@@ -75,7 +75,7 @@ I care about the full lifecycle of a product: designing the data model, building
 | Domain | Proficiency | Focus Areas |
 |---|---|---|
 | **Full Stack Development** | 🟩 Advanced | MERN stack, REST APIs, JWT auth, role-based dashboards |
-| **Data Structures & Algorithms** | 🟩 Advanced | Arrays, Trees, Graphs, DP, Greedy — C++ |
+| **Data Structures & Algorithms** | 🟦 Learning | Arrays, Trees, Graphs, DP, Greedy — C++ |
 | **Frontend Engineering** | 🟩 Advanced | React, Next.js, responsive UI, state management |
 | **Backend Engineering** | 🟨 Proficient | Node.js, Express, MongoDB schema design, auth systems |
 | **Cloud & DevOps** | 🟦 Learning | AWS, Docker, CI/CD basics |
